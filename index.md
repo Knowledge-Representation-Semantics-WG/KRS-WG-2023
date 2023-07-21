@@ -46,9 +46,9 @@ After participating in this session, attendees should be better able to:
 
 
 # Important Dates
-*Priority deadline*: August 15, 2023. Submissions by August 15 will be notified of acceptance by the AMIA early registration deadline (August 29, 2023).
-*Deadline*: September 18, 2023. 
-*Notifiation of acceptance*: October 2, 2023
+* *Priority deadline*: August 15, 2023. Submissions by August 15 will be notified of acceptance by the AMIA early registration deadline (August 29, 2023).
+* *Deadline*: September 18, 2023. 
+* *Notifiation of acceptance*: October 2, 2023
 
 
 # Submission
