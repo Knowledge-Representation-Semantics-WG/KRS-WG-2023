@@ -26,14 +26,11 @@ The 2023 workshop will have a special emphasis on AI for health projects that co
 deep learning, and natural language processing with large language models.
 Submissions specifically about KRS in AI for health will be presented in their own session followed by a panel-led open discussion of the topic.
 
+Submissions may include:
 
-
-Late-Breaking Research
-Two-page abstracts discussing in-progress work or incremental improvements on already published work may be submitted to be presented and discussed at the workshop. Three distinct types of submissions will be accepted:
-
-Abstracts for preliminary results from in-progress research;
-Abstracts for incremental improvements on already published research;
-Abstracts for systems / software artifacts currently in development (but in a demonstrable state). This session will allow researchers to quickly disseminate new results, and to receive feedback on their in-progress research before submission to a larger conference or journal venue. Accepted abstracts in this category will be presented by poster or live system demonstration.
+* Abstracts for preliminary results from in-progress research;
+* Abstracts for incremental improvements on already published research;
+* Abstracts for systems / software artifacts currently in development (but in a demonstrable state). This session will allow researchers to quickly disseminate new results, and to receive feedback on their in-progress research before submission to a larger conference or journal venue. Accepted abstracts in this category will be presented by poster or live system demonstration.
 
 Please follow the standard AMIA formats for all submission types. Accepted papers/abstracts will be asked to submit multiple choice questions so that attendees may use this workshop for MOC-II credit.
 
@@ -49,20 +46,20 @@ After participating in this session, attendees should be better able to:
 
 
 # Important Dates
-Deadline: September 15, 2019; Papers submitted by August 23 will be notified of acceptance before the AMIA Early Registration Deadline.
-
-Notification of acceptance: October 10, 2019
+*Priority deadline*: August 15, 2023. Submissions by August 15 will be notified of acceptance by the AMIA early registration deadline (August 29, 2023).
+*Deadline*: September 18, 2023. 
+*Notifiation of acceptance*: October 2, 2023
 
 
 # Submission
 
 Please follow the standard AMIA formats for all submission types.
 
-Submission site: https://easychair.org/conferences/?conf=amiakrswg2019
+Submission site: **coming soon**
 
 For some potential topics and information about the working group, see the AMIA Knowledge Representation and Semantics Working Group webpage here: https://www.amia.org/programs/working-groups/knowledge-representation-and-semantics
 
-AMIA 2019: https://www.amia.org/amia2019/
+AMIA 2023: https://www.amia.org/amia2023/
 
 
 
