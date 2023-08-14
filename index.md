@@ -55,11 +55,11 @@ After participating in this session, attendees should be better able to:
 
 Please follow the standard AMIA formats for all submission types.
 
-Submission site: https://easychair.org/cfp/KRSWG_2023
+Submission site: [https://easychair.org/cfp/KRSWG_2023](https://easychair.org/cfp/KRSWG_2023)
 
 For some potential topics and information about the working group, see the AMIA Knowledge Representation and Semantics Working Group webpage here: https://www.amia.org/programs/working-groups/knowledge-representation-and-semantics
 
-AMIA 2023: https://www.amia.org/amia2023/
+AMIA 2023: [https://www.amia.org/amia2023/](https://www.amia.org/amia2023/)
 
 
 
