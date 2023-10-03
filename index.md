@@ -3,7 +3,7 @@
 # Scope
 
 We invite contributions and participation in 2023 [Knowledge Representation and Semantics Working Group](https://amia.org/community/working-groups/knowledge-representation-and-semantics) Pre-Symposium at AMIA 2023.
-The half-day workshop will be held on Saturday November 11, or Sunday November 12 as part of official 2023 American Medical Informatics Association Pre-Symposium activities.
+The half-day workshop will be held on Saturday, Nov 11, 2023 8:30 AM - 12:00 PM CST as part of official 2023 American Medical Informatics Association Pre-Symposium activities.
 
 The objective of this pre-symposium collaborative workshop is to enhance awareness of knowledge representation and semantics approaches within biomedical informatics;
 to provide a venue to disseminate new developments in the field; and to facilitate new collaborations.
