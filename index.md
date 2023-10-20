@@ -10,6 +10,11 @@ to provide a venue to disseminate new developments in the field; and to facilita
 
 This instance of the workshop will include a special focus on knowledge representation approaches in combination with other artificial intelligence approaches, and will feature a panel of informaticists engaged in this effort. 
 
+Panelists include:
+* Mathias Brochhausen, Ph.D., University of Arkansas for Medical Sciences
+* Zhe He, Ph.D., Florida State University
+* Oliver He, Ph.D., University of Michigan
+
 
 We invite submissions of two-page abstracts for podium talks on research and applications of knowledge representation approaches across the breadth of the biomedical informatics domain areas.
 Previous instances of the workshop have included diverse submissions and presentations on knowledge representation work in many areas of informatics, including:
