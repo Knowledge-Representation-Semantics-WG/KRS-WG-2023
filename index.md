@@ -67,13 +67,22 @@ AMIA 2023: [https://www.amia.org/amia2023/](https://www.amia.org/amia2023/)
 
 
 
-# Tentative Workshop Schedule
+# Workshop Schedule
 
-* Introduction (20 minutes)
-* Podium presentations (60 minutes)
-* Coffee break
-* KRS and AI presentations and panel discussion (90 minutes)
-* Wrap-up (10 minutes)
+* 8:30 Introduction 
+* 8:40 Podium presentations
+  * Melissa Clarkson - The Graphic Descriptor Ontology: Semantic descriptors for graphic libraries in anatomical applications
+  * Melissa Clarkson - OWL Paths: A library for processing SPARQL-like property paths over OWL classes
+  * Alex Diehl & Anuwat Pengput - Use of the Cholangiocarcinoma Ontology for Term Enrichment Analysis of Risk Factors in a Research Cohort in Thailand
+  * Nansu Zong - Knowledge-based Drug Repurposing
+  * Jonathan Bona - Semantic integration and harmonization of clinical data in The Cancer Imaging Archive
+* 10:00 Shawn O’Neil - Monarch Assistant
+* 10:30 Coffee break
+* 10:40 Invited panelist presentations and discussion
+  * Mathias Brochhausen - Putting Ontologies to Work in the AI Arena
+  * Zhe He - Using informatics and AI to help patients better understand lab results
+  * Oliver He -  VIOLIN 2.0 Knowledgebase: Ontology-based Knowledge Representation and Applications for Vaccine Informatics
+* 12:00 Adjourn
 
 
 
